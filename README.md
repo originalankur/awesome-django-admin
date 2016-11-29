@@ -19,7 +19,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 - [ModelAdmin Customization](https://www.youtube.com/watch?v=Xb9zfoJJzWg)
 - [DjangoCon US 2016 - Pushing The Pony's Boundaries - Django Admin Customization by Ola Sitarska](https://www.youtube.com/watch?v=0oZA_ACwNe4)
-- [Django Admin by Ola Sitarska - Django Under The Hood - 2016](https://opbeat.com/community/posts/django-admin-by-ola-sitarska/)
+- [Django Admin by Ola Sitarska - Django Under The Hood - 2015](https://opbeat.com/community/posts/django-admin-by-ola-sitarska/)
 
 ### Articles
 
