@@ -14,6 +14,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Packages
 
 - [DjangoPackages.com - Admin Package Listing](https://djangopackages.org/grids/g/admin-interface/)
+- [django-admin-env-notice - Visually distinguish environments in Django Admin](https://github.com/dizballanze/django-admin-env-notice)
 
 ### Videos
 
