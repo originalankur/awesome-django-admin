@@ -10,10 +10,17 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-jet](https://github.com/geex-arts/django-jet)
 - [django-flat](https://github.com/collinanderson/django-flat-theme)
 - [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap)
+- [django-suit](https://github.com/darklow/django-suit)
 
 ### Packages
 
 - [DjangoPackages.com - Admin Package Listing](https://djangopackages.org/grids/g/admin-interface/)
+- [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
+- [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
+- [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+- [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
+- [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
+- [django-autoadmin](https://github.com/rosarior/django-autoadmin/) - Automatic admin users for Django projects.
 
 ### Videos
 
