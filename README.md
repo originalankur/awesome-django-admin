@@ -15,6 +15,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Packages
 
 - [DjangoPackages.com - Admin Package Listing](https://djangopackages.org/grids/g/admin-interface/)
+- [django-admin-env-notice - Visually distinguish environments in Django Admin](https://github.com/dizballanze/django-admin-env-notice)
 - [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
