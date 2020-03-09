@@ -22,7 +22,6 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
 - [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
-- [django-admin-env-notice - Visually distinguish environments in Django Admin](https://github.com/dizballanze/django-admin-env-notice)
 
 ### Videos
 
