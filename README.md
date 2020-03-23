@@ -24,6 +24,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 - [django-admin-env-notice - Visually distinguish environments in Django Admin](https://github.com/dizballanze/django-admin-env-notice)
 - [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Collection of extensions/tools for the default django administration interface
+
 ### Videos
 
 - [ModelAdmin Customization](https://www.youtube.com/watch?v=Xb9zfoJJzWg)
