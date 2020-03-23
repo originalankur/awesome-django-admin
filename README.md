@@ -23,7 +23,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
 - [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 - [django-admin-env-notice - Visually distinguish environments in Django Admin](https://github.com/dizballanze/django-admin-env-notice)
-- [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Collection of extensions/tools for the default django administration interface
+- [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Collection of extensions/tools for the default django administration interface.
 
 ### Videos
 
