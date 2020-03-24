@@ -1,6 +1,16 @@
 # Awesome Django Admin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 
+### Tutorials on Extending Django
+- [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad)
+- [Django Admin Range-Based Date Hierarchy](https://codeburst.io/django-admin-range-based-date-hierarchy-37955b12ea4e)
+- [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614)
+- [How to Add Custom Action Buttons to Django Admin](https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41)
+- [Optimizing Django Admin Paginator](https://medium.com/@hakibenita/optimizing-django-admin-paginator-53c4eb6bfca3)
+- [5 ways to make Django Admin safer](https://medium.com/hackernoon/5-ways-to-make-django-admin-safer-eb7753698ac8)
+- [How to add a text filter to Django Admin](https://medium.com/@hakibenita/how-to-add-a-text-filter-to-django-admin-5d1db93772d8)
+- [Scaling Django Admin Date Hierarchy](https://medium.com/@hakibenita/scaling-django-admin-date-hierarchy-85c8e441dd4c)
+
 ### Alternative Themes
  
 - [Django Suit](http://djangosuit.com/)
