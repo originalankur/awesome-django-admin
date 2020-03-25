@@ -5,6 +5,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
 
 ### Tutorials on Extending Django
+- [Change Django Admin Color](https://www.dothedev.com/blog/django-admin-change-color/)
 - [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad)
 - [Django Admin Range-Based Date Hierarchy](https://codeburst.io/django-admin-range-based-date-hierarchy-37955b12ea4e)
 - [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614)
