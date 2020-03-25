@@ -1,6 +1,9 @@
 # Awesome Django Admin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 
+### Django Admin Book
+- [Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
+
 ### Tutorials on Extending Django
 - [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad)
 - [Django Admin Range-Based Date Hierarchy](https://codeburst.io/django-admin-range-based-date-hierarchy-37955b12ea4e)
