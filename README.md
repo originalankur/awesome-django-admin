@@ -13,7 +13,6 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Alternative Themes
  
-- [Django Suit](http://djangosuit.com/)
 - [xadmin](https://github.com/sshwsfc/xadmin)
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli)
 - [Django-material](http://forms.viewflow.io/)
