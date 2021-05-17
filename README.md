@@ -26,6 +26,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-baton](https://github.com/otto-torino/django-baton)
 - [django-jazzmin](https://github.com/farridav/django-jazzmin)
 - [django-simpleui](https://github.com/newpanjing/simpleui)
+- [django-semantic-admin](https://github.com/globophobe/django-semantic-admin)
 
 ### Packages
 
