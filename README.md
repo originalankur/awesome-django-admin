@@ -16,7 +16,8 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [Scaling Django Admin Date Hierarchy](https://medium.com/@hakibenita/scaling-django-admin-date-hierarchy-85c8e441dd4c)
 
 ### Alternative Themes
- 
+
+- [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface)
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli)
 - [Django-material](http://forms.viewflow.io/)
 - [django-jet](https://github.com/geex-arts/django-jet)
