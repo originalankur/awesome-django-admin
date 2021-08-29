@@ -3,6 +3,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Django Admin Book
 - [Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
+- [Mastering Django Admin Book!](https://mastering-django-admin.avilpage.com/en/latest/)
 
 ### Tutorials on Extending Django Admin
 - [Change Django Admin Color](https://www.dothedev.com/blog/django-admin-change-color/)
