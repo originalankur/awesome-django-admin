@@ -20,6 +20,19 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
   - also published on [PyPi](https://pypi.org/project/django-admin-volt/)
 
 
+### Widgets / Fields
+
+- [django-json-widget](https://github.com/jmrivas86/django-json-widget) - An alternative widget that makes it easy to edit the Django's JSONField
+- [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker in the admin
+- [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Add captcha images to any Django form
+- [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE text editor integration for Django
+
+### Actions
+
+- [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+- [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
+- [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) - Adds confirmations to changes, additions and actions
+
 ### Packages
 
 Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) to found more admin packages.
@@ -27,9 +40,7 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin
 - [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
-- [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
-- [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 - [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Collection of extensions/tools for the default django administration interface.
 
 ## Learn more about Django Admin
