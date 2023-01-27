@@ -26,6 +26,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker in the admin
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Add captcha images to any Django form
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE text editor integration for Django
+- [django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - An beautiful image uploader widget (and inline) for django-admin
 
 ### Actions
 
