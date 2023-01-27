@@ -35,19 +35,6 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) - Adds confirmations to changes, additions and actions
 
 
-## Boilerplate
-
-*Packages related to starting a new project.*
-
-* [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
-* [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
-* [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
-* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Django sample app with users including social auth via Django-AllAuth.
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
-
-
-
-
 ### Packages
 
 Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) to found more admin packages.
