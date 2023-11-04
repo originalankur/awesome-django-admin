@@ -17,7 +17,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-semantic-admin](https://github.com/globophobe/django-semantic-admin)
 - [django-admin-volt](https://github.com/app-generator/django-admin-volt) - Modern Bootstrap5 Design
   - also published on [PyPi](https://pypi.org/project/django-admin-volt/)
-
+- [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind)
 
 ### Widgets / Fields
 
