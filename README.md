@@ -7,7 +7,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface)
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli)
-- [Django-material](http://forms.viewflow.io/)
+- [Django-material](https://github.com/viewflow/django-material)
 - [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot)
 - [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap)
 - [django-suit](https://github.com/darklow/django-suit)
