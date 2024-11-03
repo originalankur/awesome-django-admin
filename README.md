@@ -27,7 +27,10 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Add captcha images to any Django form
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE text editor integration for Django
 - [django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - An beautiful image uploader widget (and inline) for django-admin
-- [https://github.com/bhch/django-jsonform] - A user-friendly JSON editing form for django admin.
+- [django-jsonform](https://github.com/bhch/django-jsonform) - A user-friendly JSON editing form for django admin.
+- [django-summernote](https://github.com/lqez/django-summernote) - Django summernote is a simple WYSIWYG editor.
+
+
 
 ### Actions
 
