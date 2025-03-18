@@ -10,13 +10,13 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [Django-material](https://github.com/viewflow/django-material)
 - [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot)
 - [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap)
+- [djing](https://github.com/djing-admin/djing)
 - [django-suit](https://github.com/darklow/django-suit)
 - [django-baton](https://github.com/otto-torino/django-baton)
 - [django-jazzmin](https://github.com/farridav/django-jazzmin)
 - [django-simpleui](https://github.com/newpanjing/simpleui)
 - [django-semantic-admin](https://github.com/globophobe/django-semantic-admin)
-- [django-admin-volt](https://github.com/app-generator/django-admin-volt) - Modern Bootstrap5 Design
-  - also published on [PyPi](https://pypi.org/project/django-admin-volt/)
+- [django-admin-volt](https://github.com/app-generator/django-admin-volt)
 - [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind)
 - [django-unfold](https://github.com/unfoldadmin/django-unfold)
 
