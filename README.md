@@ -62,6 +62,9 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 - [Optimizing Django Admin Paginator](https://medium.com/@hakibenita/optimizing-django-admin-paginator-53c4eb6bfca3)
 - [5 ways to make Django Admin safer](https://medium.com/hackernoon/5-ways-to-make-django-admin-safer-eb7753698ac8)
 - [How to add a text filter to Django Admin](https://medium.com/@hakibenita/how-to-add-a-text-filter-to-django-admin-5d1db93772d8)
+- [How to use list display in Django Admin](https://django-tutorial.dev/course/django-specifics/admin-panel/customizing-list-display)
+- [How to add Custom Buttons and Actions in Django Admin](https://django-tutorial.dev/course/django-specifics/admin-panel/custom-buttons-and-actions)
+- [Customize all of Admin Panel](https://django-tutorial.dev/course/django-specifics/admin-panel/model-admin-home/)
 - [Scaling Django Admin Date Hierarchy](https://medium.com/@hakibenita/scaling-django-admin-date-hierarchy-85c8e441dd4c)
 
 ### Videos
