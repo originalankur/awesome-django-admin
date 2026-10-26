@@ -20,6 +20,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 - [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind)
 - [django-unfold](https://github.com/unfoldadmin/django-unfold)
 - [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin)
+- [django-vantage](https://github.com/Pythondeveloper6/django-vantage)
 
 ### Widgets / Fields
 
